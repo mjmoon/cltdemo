@@ -1,3 +1,4 @@
-# cltdemo
-Visualization of the central limit theorem
-More information at: http://blog.micbon.com/2016/10/12/central-limit-theorem/
+# Central Limit Theorem Demonstration
++ Visualization of the central limit theorem 
++ App deployed at: https://micbon.shinyapps.io/cltdemo/
++ More information at: http://wp.me/p7ucdR-eA
